@@ -1,0 +1,12 @@
+digraph G { 
+nodo43 [label = "43 # 4"];
+nodo43 -> nodo19;
+nodo19 [label = "19 # 2"];
+nodo19 -> nodo34;
+nodo34 [label = "34 # 0"];
+nodo43 -> nodo89;
+nodo89 [label = "89 # 2"];
+nodo89 -> nodo56;
+nodo56 [label = "56 # 1"];
+
+}
